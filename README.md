@@ -36,8 +36,8 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/davidalexandre">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do David Alexandre Fernandes no GitHub"/><br>
+      <a href="https://github.com/DavidAlexandre93">
+        <img src="https://avatars3.githubusercontent.com/DavidAlexandre93" width="100px;" alt="Foto do David Alexandre Fernandes no GitHub"/><br>
         <sub>
           <b>David Alexandre Fernandes</b>
         </sub>
