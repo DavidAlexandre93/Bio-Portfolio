@@ -531,7 +531,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-projects .grid-layout #projects > article {
-  background-color: #0b0a17;
+  background-color: #2a2a2a;
   height: auto;
   padding: 32px;
   margin: 8px;
@@ -629,7 +629,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #s-services .grid-layout #services article {
-  background-color: #080713;
+  background-color: #2a2a2a;
   height: auto;
   padding: 32px;
   margin: 8px;
